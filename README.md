@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwanikky
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects on machine learning
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me adenikeikuedojo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
